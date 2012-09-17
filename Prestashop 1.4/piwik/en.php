@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{piwik}prestashop>config_2e5fe128371129c4c700ce715688956b'] = 'Visit your Piwik Host';
+$_MODULE['<{piwik}prestashop>config_f4f70727dc34561dfde1a3c529b6205c'] = 'Settings';
+$_MODULE['<{piwik}prestashop>config_2abdb138dbc6925f80bc6848d500729a'] = 'Piwik Side ID';
+$_MODULE['<{piwik}prestashop>config_f753b554e7fde3c0109a97d67aa38963'] = 'Example: 10';
+$_MODULE['<{piwik}prestashop>config_3c6805325f65f0ee32244920e46aac39'] = 'Piwik Host';
+$_MODULE['<{piwik}prestashop>config_f0a7283a720e3250d09552519aefae6f'] = 'Example: www.example.com/piwik (without protocol)';
+$_MODULE['<{piwik}prestashop>config_ef0f0173abf086bc1ead117afb50fd28'] = 'Piwik Token';
+$_MODULE['<{piwik}prestashop>config_5f4ee86a2157bead6d16645e6d0dc92c'] = 'Must be either the Super User token_auth, or the token_auth of any user with \'admin\' permission for the website you are recording data against.';
+$_MODULE['<{piwik}prestashop>config_ea1a450eb4ff6c8207c423c7beeb7877'] = 'Let Piwik track';
+$_MODULE['<{piwik}prestashop>config_77dcfde0e4357d39510713b5a6dfbf83'] = 'Basic tracking: page views, actions...';
+$_MODULE['<{piwik}prestashop>config_d105424452a727f32524e96305282be7'] = 'Order tracking: order\'s items, prices...';
+$_MODULE['<{piwik}prestashop>config_6bf55f56c197481c8f0b8faf53ee1626'] = 'Product/Category view tracking: to generate the useful View/Sale ratio';
+$_MODULE['<{piwik}prestashop>config_6504cd5dd9fdaa9f66f93cc56957760d'] = 'Cart tracking: cart items, revenue, what has been abandoned...';
+$_MODULE['<{piwik}prestashop>config_c92617f55526d0d4f4cb651088acc150'] = '(only works with default theme)';
+$_MODULE['<{piwik}prestashop>config_f0760f5b3e650d3e2e903943adc920db'] = 'Please remember to set currency of your website profile in Piwik to';
+$_MODULE['<{piwik}prestashop>config_06933067aafd48425d67bcb01bba5cb6'] = 'Update';
+$_MODULE['<{piwik}prestashop>config_2f335a5345bee6b16b0a4dc512a1c9ae'] = 'Order tracking settings';
+$_MODULE['<{piwik}prestashop>config_605d8e7cd5434d8c5d0c520afb70fa8a'] = 'Tracking using';
+$_MODULE['<{piwik}prestashop>config_9e13b69d1d2da927102acaaaf7154a37'] = 'Javascript';
+$_MODULE['<{piwik}prestashop>config_2fec392304a5c23ac138da22847f9b7c'] = 'PHP';
+$_MODULE['<{piwik}prestashop>config_1c7b3f146f6cbcbf82676bf0c759df3a'] = 'Statistic';
+$_MODULE['<{piwik}prestashop>config_9c5ad9829a7aa4223a0c72de5ff475a5'] = 'Date of order';
+$_MODULE['<{piwik}prestashop>config_b3b60b7a5e7f9977461d42a94bf2c761'] = 'Created date';
+$_MODULE['<{piwik}prestashop>config_c28d6d4409f06914e34b543144cb9f03'] = 'Updated date';
+$_MODULE['<{piwik}prestashop>config_78d1b82679be9f1d53946bfa3e643bd4'] = 'Which date of order do you want to record on Piwik?';
+$_MODULE['<{piwik}prestashop>config_097f9d0ce68652ed42fe8bd87459dbd8'] = 'Select status we want to track';
+$_MODULE['<{piwik}prestashop>config_26707913dc89853e2e4cc89a8c22e872'] = 'If status of an order is changed to one of these, that order will be recorded as a successful purchase by Piwik';
+$_MODULE['<{piwik}prestashop>config_d8c8f16a956a8b6d467a70e051966a07'] = 'This module was created by';
+$_MODULE['<{piwik}prestashop>config_5a30c1d95b9d66febc2a2cf32c7bc347'] = ', an E-commerce (Prestashop, Magento) specialized web agency';
+$_MODULE['<{piwik}prestashop>config_31a8943b926ade3ac4bfe2ba689d8ade'] = 'Contact us by phone +33(0) 4 825 331 75 or by ';
+$_MODULE['<{piwik}prestashop>config_52eb796e1af7fc2082f573dbf98a40ba'] = 'Follow us on Twitter:';

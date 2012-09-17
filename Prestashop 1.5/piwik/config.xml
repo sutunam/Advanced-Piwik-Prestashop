@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>piwik</name>
+	<displayName><![CDATA[Piwik Web Analytics Reports]]></displayName>
+	<version><![CDATA[0.5]]></version>
+	<description><![CDATA[Piwik Web Analytics Reports plugin]]></description>
+	<author><![CDATA[Sutunam]]></author>
+	<tab><![CDATA[analytics_stats]]></tab>
+	<confirmUninstall>Are you sure you want to delete your details ?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

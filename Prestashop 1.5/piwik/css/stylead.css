@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+#sutu_ad{width:640px;border-color:#c0b882;border-style:solid;border-width:2px;margin:35px auto auto;}
+#sutu_ad p{margin-left:20px;line-height:18px;}
+#sutu_ad a{color:#2561db;}
+#sutu_ad a:hover{color:#000;}
+#logobig{text-align: center; padding-bottom: 10px; padding-top:10px;}
